@@ -1,0 +1,11 @@
+Resume Tips:
+- Keep resume one page
+- Highlight projects and skills
+
+Interview Tips:
+- Practice DSA daily
+- Be confident and clear
+
+General Advice:
+- Build real projects
+- Stay consistent
